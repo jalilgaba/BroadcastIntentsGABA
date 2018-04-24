@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastIntentsGABA</string>
+    <string name="battery_level">Battery level:</string>
+</resources>
